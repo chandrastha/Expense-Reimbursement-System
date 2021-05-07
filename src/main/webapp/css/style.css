@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+
+.entirePage{
+
+color: white;
+background: black;
+font-family: 'Nixie One', cursive;
+font-family: 'Poppins', sans-serif;
+
+}
+#welcome{
+	text-align: center;
+}
+
+#logoutButton{
+	text-align: right;
+}
+
+.center-text{
+	text-align: center;
+}
+
+
+.ers-body{
+	max-width: 800px;
+	padding: 100px 30px;
+}
+
+.login-form{
+	max-width: 350px;
+	align-content: center;
+	margin: 100px 200px;
+}
+
+.centerText {
+	text-align: center;
+}
+
+
+
+#approveBtn,#denyBtn{
+padding: 5px 8px 5px 8px;
+margin-left: 8px;
+z-index: 1;
+}
+
+.page-body{
+	padding: 100px 5px;
+	
+}
+
+.table-dark{
+	--bs-table-bg: none;
+
+}
+
